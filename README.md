@@ -1,8 +1,8 @@
 ### Hi! My name is Jesse Bonanno 👋
 
 - 🔭 I’m currently working on:
-   * [django-IntederminateBeam](https://github.com/JesseBonanno/django-indeterminatebeam) A django implementation of the [Indeterminate Beam](https://github.com/JesseBonanno/IndeterminateBeam) package
-   * [Anchor Group](https://github.com/JesseBonanno/Anchor_Group) A tool to help determine the volume of intersecting cones for anchor group pullout calculations
+   * [django-IntederminateBeam](https://github.com/JesseBonanno/django-indeterminatebeam): A django implementation of the [Indeterminate Beam](https://github.com/JesseBonanno/IndeterminateBeam) package
+   * [Anchor Group](https://github.com/JesseBonanno/Anchor_Group): A tool to help determine the volume of intersecting cones for anchor group pullout calculations
 - 🌱 I’m currently learning:
    * Django
    * Javascript
