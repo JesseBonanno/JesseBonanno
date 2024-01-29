@@ -1,15 +1,12 @@
 ### Hi! My name is Jesse Bonanno 👋
 
-- 🔭 I’m currently working on:
-   * [pySlope](https://github.com/JesseBonanno/pySlope): A slope stability analysis package that uses bishops method
-   * [Anchor Group](https://github.com/JesseBonanno/Anchor_Group): A tool to help determine the volume of intersecting cones for anchor group pullout calculations
-- 🌱 I’m currently learning:
-   * Django
-   * Javascript
-- 👯 I’m looking to collaborate on:
-   * Slope Stability Web Application
-   * Civil/Structural/Geotechnical Engineering tools
+I am currently completing my Masters Degree abroad at The University of Hong Kong. 
 
+I am focusing on data structures and algorithms (leetcode) and the subjects which i am currently studying:
+- Distributed Systems
+- Machine Learning
+- Algorithms
+- Principles of Programming Languages
 
 <p align="center">
  
