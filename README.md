@@ -1,12 +1,8 @@
 ### Hi! My name is Jesse Bonanno 👋
 
-I am currently completing my Masters Degree abroad at The University of Hong Kong. 
+I am a Civil Engineer and Software Developer based in Sydney. 
 
-I am focusing on data structures and algorithms (leetcode) and the subjects which i am currently studying:
-- Distributed Systems
-- Machine Learning
-- Algorithms
-- Principles of Programming Languages
+I am currently working as a Product Developer at SkyCiv where I am building [Quick Design Engineering Calculators.](https://skyciv.com/structural-software/quick-design/)
 
 <p align="center">
  
