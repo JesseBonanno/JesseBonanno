@@ -1,8 +1,10 @@
 ### Hi! My name is Jesse Bonanno 👋
 
-I am a Civil Engineer and Software Developer based in Sydney. 
+I am currently working as a Software Engineer in the Internet Edge team at Amazon Web Services (AWS) in Sydney.
 
-I am currently working as a Product Developer at SkyCiv where I am building [Quick Design Engineering Calculators.](https://skyciv.com/structural-software/quick-design/)
+I have experience working in Civil Engineering (which is why a lot of my tools are civil engineering based).
+
+I also worked for some time as a Product Developer at SkyCiv where I built [Quick Design Engineering Calculators.](https://skyciv.com/structural-software/quick-design/)
 
 <p align="center">
  
